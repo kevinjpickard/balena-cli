@@ -1,4 +1,14 @@
 - commits:
+    - subject: Update typescript to 3.9
+      hash: 58137b82cad6f29301ca3cce62ac368d7da899c1
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 11.35.2
+  date: 2020-05-15T16:03:33.934Z
+- commits:
     - subject: Update GitHub templates for new issues and pull requests
       hash: 8c2a40cb39a4c790e06d23c4b920a57639b239d2
       body: ''
